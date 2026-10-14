@@ -1,0 +1,28 @@
+{
+    "pack":  {
+                 "pack_format":  34,
+                 "description":  [
+                                     {
+                                         "bold":  true,
+                                         "color":  "gray",
+                                         "text":  "Aesthetic Grey\n"
+                                     },
+                                     {
+                                         "text":  "made by ways",
+                                         "color":  "gray"
+                                     },
+                                     {
+                                         "text":  " | ",
+                                         "color":  "dark_gray"
+                                     },
+                                     {
+                                         "text":  "discord: ",
+                                         "color":  "dark_gray"
+                                     },
+                                     {
+                                         "text":  "waystobe",
+                                         "color":  "light_purple"
+                                     }
+                                 ]
+             }
+}
