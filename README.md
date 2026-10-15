@@ -11,3 +11,5 @@ a gray overlay texture pack.
 ![blocks](screenshots/blocks.png)
 
 ![armor](screenshots/armor.png)
+
+all rights reserved. made by wysss.
